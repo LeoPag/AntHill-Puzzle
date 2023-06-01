@@ -4,7 +4,7 @@ from scipy.stats import norm
 
 class Simulation():
 
-    def __init__(self,n):
+    def __init__(self,p):
 
         self.p = p
 
